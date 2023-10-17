@@ -1,0 +1,47 @@
+.header {
+    text-align: center;
+}
+
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+}
+   
+.news{
+    background-color: grey;
+    color: white;
+}
+
+.forex{
+border: 15px solid grey;
+width: 700px;
+padding: 10px;
+margin: px;
+background-color: white;
+color: black;
+}    
+
+.article{
+    border: 15px solid grey;
+    width: 650px;
+    padding: 10px;
+    margin: px;
+    background-color: white;
+    color: black;
+}
+
+.sidebar {
+    border: 15px solid grey;
+    width: 700px;
+    padding: 10px;
+    background-color: white;
+    color: black;
+}
+
+.news{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
